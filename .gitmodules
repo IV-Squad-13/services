@@ -1,0 +1,6 @@
+[submodule "gateway"]
+	path = gateway
+	url = https://github/iv-squad-13/gateway
+[submodule "discovery"]
+	path = discovery
+	url = https://github/iv-squad-13/discovery
