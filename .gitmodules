@@ -6,4 +6,4 @@
 	url = https://github.com/iv-squad-13/discovery.git
 [submodule "api-monolito"]
 	path = api-monolito
-	url = https://github/iv-squad-13/api-monolito.git
+	url = https://github.com/iv-squad-13/api-monolito.git
