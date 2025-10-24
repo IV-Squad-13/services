@@ -1,9 +1,3 @@
-[submodule "gateway"]
-	path = gateway
-	url = https://github.com/iv-squad-13/gateway.git
-[submodule "discovery"]
-	path = discovery
-	url = https://github.com/iv-squad-13/discovery.git
 [submodule "api-monolito"]
 	path = api-monolito
 	url = https://github.com/iv-squad-13/api-monolito.git
