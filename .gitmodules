@@ -1,3 +1,6 @@
 [submodule "api-monolito"]
 	path = api-monolito
 	url = https://github.com/iv-squad-13/api-monolito.git
+[submodule "api-kurush"]
+	path = api-kurush
+	url = https://github.com/iv-squad-13/api-kurush
