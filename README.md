@@ -18,7 +18,7 @@ API central do sistema, desenvolvida em **Spring Boot**, responsável pela maior
 ## Kurush (Geração de PDF)
 
 - **Documentação**: [README do Kurush](https://github.com/IV-Squad-13/api-kurush/tree/main?tab=readme-ov-file#api-kurush)  
-- **Acesso Online (Swagger)**: https://pdf.s13.api.br/q/swagger-ui/index.html  
+- **Acesso Online (Swagger)**: https://pdf.s13.api.br
 - **Repositório no Docker Hub**: https://hub.docker.com/repository/docker/yuri000/kurush_api/general  
 
 **Descrição:**  
